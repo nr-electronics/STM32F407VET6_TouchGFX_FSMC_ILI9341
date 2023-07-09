@@ -1,0 +1,4 @@
+../MyLib/STM32-touchscreen-XPT2046-HAL-SPI/XPT2046_touch.c:69:13:XPT2046_TouchSelect	8	static
+../MyLib/STM32-touchscreen-XPT2046-HAL-SPI/XPT2046_touch.c:74:13:XPT2046_TouchUnselect	8	static
+../MyLib/STM32-touchscreen-XPT2046-HAL-SPI/XPT2046_touch.c:79:6:XPT2046_TouchPressed	8	static
+../MyLib/STM32-touchscreen-XPT2046-HAL-SPI/XPT2046_touch.c:84:6:XPT2046_TouchGetCoordinates	56	static

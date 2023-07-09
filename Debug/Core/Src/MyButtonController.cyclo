@@ -1,0 +1,7 @@
+ButtonController.hpp:30:13:touchgfx::ButtonController::~ButtonController()	1
+ButtonController.hpp:30:13:virtual touchgfx::ButtonController::~ButtonController()	1
+ButtonController.hpp:48:18:virtual void touchgfx::ButtonController::reset()	1
+MyButtonController.cpp:9:6:virtual void MyButtonController::init()	1
+MyButtonController.cpp:14:6:virtual bool MyButtonController::sample(uint8_t&)	3
+MyButtonController.hpp:13:7:MyButtonController::~MyButtonController()	1
+MyButtonController.hpp:13:7:virtual MyButtonController::~MyButtonController()	1

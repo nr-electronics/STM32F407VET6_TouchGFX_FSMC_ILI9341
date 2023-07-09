@@ -1,0 +1,10 @@
+ili9341_simple.c:22:13:lcdWriteCommand	1
+ili9341_simple.c:28:13:lcdWriteData	1
+ili9341_simple.c:33:13:lcdReset	1
+ili9341_simple.c:39:22:lcdBuildMemoryAccessControlConfig	7
+ili9341_simple.c:57:6:lcdInit	1
+ili9341_simple.c:216:6:lcdBacklightOff	1
+ili9341_simple.c:221:6:lcdBacklightOn	1
+ili9341_simple.c:226:6:lcdSetOrientation	5
+ili9341_simple.c:261:6:lcdSetWindow	1
+ili9341_simple.c:276:6:lcdTest	10

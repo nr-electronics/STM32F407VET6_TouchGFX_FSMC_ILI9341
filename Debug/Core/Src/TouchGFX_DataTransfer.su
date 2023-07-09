@@ -1,0 +1,2 @@
+../Core/Src/TouchGFX_DataTransfer.c:5:10:touchgfxDisplayDriverTransmitActive	4	static
+../Core/Src/TouchGFX_DataTransfer.c:10:6:touchgfxDisplayDriverTransmitBlock	40	static

@@ -1,0 +1,4 @@
+Model.cpp:10:1:Model::Model()	1
+Model.cpp:15:6:void Model::tick()	2
+Model.cpp:26:6:void Model::HW_GetTime()	1
+Model.cpp:32:6:void Model::HW_SetTime(uint8_t, uint8_t, uint8_t)	1

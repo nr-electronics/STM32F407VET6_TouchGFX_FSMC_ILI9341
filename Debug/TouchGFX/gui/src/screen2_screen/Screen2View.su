@@ -1,0 +1,13 @@
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:115:18:virtual void touchgfx::Screen::tearDownScreen()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	16	static
+../TouchGFX/generated/gui_generated/include/gui_generated/screen2_screen/Screen2ViewBase.hpp:25:18:virtual void Screen2ViewBase::function1()	16	static
+../TouchGFX/generated/gui_generated/include/gui_generated/screen2_screen/Screen2ViewBase.hpp:29:18:virtual void Screen2ViewBase::function2()	16	static
+../TouchGFX/generated/gui_generated/include/gui_generated/screen2_screen/Screen2ViewBase.hpp:33:18:virtual void Screen2ViewBase::function3()	16	static
+../TouchGFX/generated/gui_generated/include/gui_generated/screen2_screen/Screen2ViewBase.hpp:37:18:virtual void Screen2ViewBase::function4()	16	static
+../TouchGFX/generated/gui_generated/include/gui_generated/screen2_screen/Screen2ViewBase.hpp:41:18:virtual void Screen2ViewBase::function5()	16	static
+../TouchGFX/gui/include/gui/screen2_screen/Screen2View.hpp:11:13:Screen2View::~Screen2View()	16	static
+../TouchGFX/gui/include/gui/screen2_screen/Screen2View.hpp:11:13:virtual Screen2View::~Screen2View()	16	static
+../TouchGFX/gui/src/screen2_screen/Screen2View.cpp:3:1:Screen2View::Screen2View()	16	static
+../TouchGFX/gui/src/screen2_screen/Screen2View.cpp:8:6:virtual void Screen2View::setupScreen()	16	static
+../TouchGFX/gui/src/screen2_screen/Screen2View.cpp:14:6:virtual void Screen2View::tearDownScreen()	16	static

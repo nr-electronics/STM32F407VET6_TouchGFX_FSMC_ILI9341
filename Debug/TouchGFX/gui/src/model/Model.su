@@ -1,0 +1,4 @@
+../TouchGFX/gui/src/model/Model.cpp:10:1:Model::Model()	16	static
+../TouchGFX/gui/src/model/Model.cpp:15:6:void Model::tick()	48	static
+../TouchGFX/gui/src/model/Model.cpp:26:6:void Model::HW_GetTime()	48	static
+../TouchGFX/gui/src/model/Model.cpp:32:6:void Model::HW_SetTime(uint8_t, uint8_t, uint8_t)	16	static
